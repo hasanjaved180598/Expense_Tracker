@@ -6,8 +6,7 @@ A clean and intuitive expense tracking app built with Flutter. Log your expenses
 
 ## 🎬 Demo
 
-[https://github.com/your-username/expense_track/blob/main/assets/demo.mp4
-](https://github.com/user-attachments/assets/1921818c-249e-4c64-8767-44a9baeb89ed)
+https://github.com/user-attachments/assets/a75b5777-1c36-4241-9b00-7c46b0f65886
 
 ---
 
